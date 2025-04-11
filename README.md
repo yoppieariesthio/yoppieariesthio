@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yoppieariesthio
 - 👀 I’m interested in ABAP/JAVASCRIPT
-- 🌱 I’m currently learning R/ABAP/JAVASCRIPT
-- 💞️ I’m looking to collaborate on Data Science/ABAP
-- 📫 How to reach me on LinkedIn: linkedin.com/in/yoppie-ariesthio
+- 🌱 I’m currently learning ABAP RAP/JAVASCRIPT
+- 💞️ I’m looking for SAP implementation project / Monitoring and Audit Project
+- 📫 Please reach me on LinkedIn: linkedin.com/in/yoppie-ariesthio
 
 <!---
 yoppieariesthio/yoppieariesthio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
